@@ -1,4 +1,5 @@
-```markdown
+---
+
 # 🚀 Discord Bot Maker (DBM)
 
 O **Discord Bot Maker (DBM)** é uma aplicação desktop avançada para Windows que permite criar, configurar e gerenciar bots do Discord de forma intuitiva e modular. Com uma interface gráfica robusta, você pode desenvolver bots personalizados com comandos, eventos e muito mais, sem precisar escrever código manualmente. 🤖✨
