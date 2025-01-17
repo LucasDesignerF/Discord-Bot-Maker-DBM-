@@ -67,8 +67,8 @@ Aqui estão algumas imagens de exemplo da interface do **DBM**:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/LucasDesignerF/discord-bot-maker.git
-   cd discord-bot-maker
+   git clone https://github.com/LucasDesignerF/Discord-Bot-Maker-DBM-.git
+   cd Discord-Bot-Maker-DBM-
    ```
 
 2. Instale as dependências:
