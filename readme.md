@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🚀 Discord Bot Maker (DBM)
 
